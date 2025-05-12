@@ -39,7 +39,7 @@ The solution uses the following AWS services:
 
 2. **Create a Lambda function**:
 
-   - Runtime: Python 3.8+
+   - Runtime: Python 3.12+
    - Upload the provided `lambda_function.py` code
    - Set appropriate timeout (recommended: 30+ seconds)
 
